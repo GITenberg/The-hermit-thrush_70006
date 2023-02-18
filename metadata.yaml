@@ -1,0 +1,30 @@
+_repo: The-hermit-thrush_70006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mathews, F. Schuyler (Ferdinand Schuyler)
+    aliases:
+    - Mathews, Ferdinand Schuyler
+    - Matthews, F. Schuyler (Ferdinand Schuyler)
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '55516'
+    url: http://www.gutenberg.org/2009/agents/55516
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70006'
+language: en
+pgterms:marc905: 20220509062009mathews
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: Steve Mattern, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bL Prang & Co, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The hermit thrush
+url: http://www.gutenberg.org/ebooks/70006
